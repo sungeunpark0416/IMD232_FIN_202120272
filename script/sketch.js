@@ -15,7 +15,8 @@ function preload() {
 }
 
 function setup() {
-  setCanvasContainer('canvas', 1, 1, true);
+  // setCanvasContainer('canvas', 1, 1, true);
+  createCanvas(windowWidth, windowHeight);
 
   spawnParticles();
 
