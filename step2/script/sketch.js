@@ -9,7 +9,7 @@ function preload() {
 }
 
 function setup() {
-  setCanvasContainer('canvas', 1, 1, true);
+  setCanvasContainer('canvas', 2, 2, true);
   // createCanvas(windowWidth, windowHeight);
 
   pts = font.textToPoints('light', 0, 0, 250, {
