@@ -1,3 +1,5 @@
+// copylight https://youtu.be/_gz8FMduwRc?si=9GeyHhhAg_esjaPs
+
 const PARTICLE_SIZE = 80;
 const RESOLUTION = 80;
 
